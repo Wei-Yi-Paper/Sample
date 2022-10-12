@@ -9,6 +9,7 @@
 	FLA
 	N0A
 	NCA
+	NDA
 	NHA
 	P+A2
 	P2A2
@@ -18,7 +19,6 @@
 	R3A1
 	R3A2
 	R5A2
-	R8A2
 	Z2A1
 	ZDA
 	Z4A
