@@ -3,11 +3,13 @@
 	CSA
 	C3AG
 	C4AG
-	D1A1
-	D2A1
 	FHA
 	FLA
+ 	N0A
+  	NCA
+   	NDA
 	NHA
+ 	P1A3
 	P+A2
 	P2A2
 	P3A2
@@ -17,6 +19,7 @@
 	R3A
 	R5A
 	R8A
+ 	Q4A
 	Z2A1
 	ZDA
 	Z4A
