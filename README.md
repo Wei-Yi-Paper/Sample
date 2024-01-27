@@ -1,8 +1,8 @@
 # Sample List
 	A5A
 	CSA
+	CBAG
 	C3AG
-	C4AG
 	FHA
 	FLA
  	N0A
@@ -10,7 +10,7 @@
    	NDA
 	NHA
  	P1A3
-	P+A2
+	Y1A3
 	P2A2
 	P3A2
 	R1A1
